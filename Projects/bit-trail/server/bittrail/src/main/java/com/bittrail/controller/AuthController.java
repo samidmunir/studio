@@ -52,4 +52,9 @@ public class AuthController {
         
         return new AuthResponse(token);
     }
+
+    @GetMapping("/ping")
+    public String ping() {
+        return "Auth service is live!";
+    }
 }
