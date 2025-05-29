@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+* {
+  scrollbar-width: none;
+}
+
+body {
+  background-color: oklch(21% 0.006 285.885);
+}
