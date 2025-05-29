@@ -8,6 +8,7 @@ Sami Munir | Rutgers University | sami.munir2001@gmail.com
 
 - Java
 - Spring boot
+- Postgres
 - React
 - Typescript
 - TailwindCSS
@@ -16,3 +17,12 @@ Sami Munir | Rutgers University | sami.munir2001@gmail.com
 
 - Java
 - Spring boot
+- Postgres
+- MongoDB
+
+### career-dock
+
+- MongoDB
+- Express
+- React
+- Node
